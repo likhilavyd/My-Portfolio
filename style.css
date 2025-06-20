@@ -69,7 +69,7 @@ nav h1 {
 
 /* Skills */
 .skills-list {
-  display: none;
+  display: flex;
   flex-wrap: wrap;
   gap: 15px;
   list-style: none;
