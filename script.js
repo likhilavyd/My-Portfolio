@@ -28,4 +28,3 @@ const toggleDarkMode = () => {
 
 const modal = document.getElementById('imgModal');
 const modalImage = document.getElementById('modalImage');
-
